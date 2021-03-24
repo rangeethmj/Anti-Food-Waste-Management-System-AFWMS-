@@ -5,15 +5,20 @@ TECHNICAL DETAILS
 Frameworks to be used for the development of product:-
 
 Front-end development:-
+
 ➢ HTML & CSS
+
 ➢ JavaScript
 
 Server processing: 
+
 ➢ PHP
 
 Back-end processing: 
+
 ➢ MySQL
 
 Local Server:
+
 ➢ WAMP Server
 
