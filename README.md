@@ -21,5 +21,5 @@ Local Server:
 
 ➢ WAMP Server
 
-https://afwms.000webhostapp.com/
+https://afwmssite.000webhostapp.com/
 
